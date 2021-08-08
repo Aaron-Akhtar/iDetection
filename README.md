@@ -1,6 +1,14 @@
 # iDetection
 
 
+
+### Download Latest Jar File
+
+https://github.com/Aaron-Akhtar/iDetection/releases/download/1/iDetection.jar
+
+
+
+
 iDetection allows you to Monitor your target Network Interface's Incoming Traffic, and possibly detect (and packet capture) any (Distributed) Denial of Service Attacks.
 
 
