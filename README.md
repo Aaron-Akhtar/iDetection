@@ -1,10 +1,10 @@
-## iDetection
+# iDetection
 
 
 iDetection allows you to Monitor your target Network Interface's Incoming Traffic, and possibly detect (and packet capture) any (Distributed) Denial of Service Attacks.
 
 
-# Setup (Debian)
+### Setup (Debian)
 
 Step 1, Install Java.
 ```
