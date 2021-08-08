@@ -8,8 +8,8 @@ iDetection allows you to Monitor your target Network Interface's Incoming Traffi
 
 Step 1, Install Java.
 ```
-apt-get install default-jre -y```
-
+apt-get install default-jre -y
+```
 Step 2, Run iDetection.
 ```
 java -jar iDetection.jar <target_network_interface>
